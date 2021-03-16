@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
-Investigations in employee databases.
+Investigations in employee databases to aid in Pewlett-Hackard's analysis of potential retirees.
 
-# Summary
+# Purpose
 This analysis is to aid Bobby's manager in looking for employees who are close to retiring. By discovering this trend early, management can take necessary action early and can prevent anything like this from occurring in the future. 
 
 The purpose of this analysis is to find the following bits of information: 
@@ -24,7 +24,7 @@ During or analysis, we came across the following findings:
 ## The "Silver Tsunami"
 Based on our analysis, there are 90,398 employee positions that would need to be filled to accommodate the soon-to-be retiring employees. From our analysis on mentorship eligibility, there were 1,549 eligible employees who could help train new hires. Since this many employees will be leaving and so few employees will be of "training eligibility", there is just not enough help to transition new employees into the company successfully. Pewlett-Hackard should consider giving greater incentives for employees of retiring ages who choose not to retire, or even consider outsourcing certain departments to contractors who are already experienced in certain areas, in order to prevent a gap in employee support. 
 
-## Additional Tables
+## Additional Analysis
 To aid in this analysis and to make a better informed decision by management, the following tables could be constructed:
 - <b>Employee Transitions Table:</b> A table tracking the number of positions a single person has held. This may help identify people who are more capable of moving up in the company, which may mean that they are a fast learner. It is people like this who could also be suitable to mentoring new employees in the company. To do this, we could count the total titles per person in the "titles" table, and analyze our data from there.
 - <b>Most strained Department Table:</b> To see what department in particular needs the most attention, we could find the eligible retirees and merge that with their department information. Once we know which department is most at risk in this "tsunami", then we can make management calls in how to better handle this (e.g. Outsourcing a division).
