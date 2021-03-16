@@ -13,10 +13,10 @@ To do this, we made a "mentorship-eligibility" table that holds the current empl
 # Results
 During or analysis, we came across the following findings:
 - There are a startling number of senior staff members who would be at risk of leaving soon. Senior engineers and senior staff had 29,414 employees and 28,254 employees, respectively. Higher-up positions like this are much harder to replace, and require a lot more training to fill.<br>
-![Retiring Titles](retiring_titles.png)
+![Retiring Titles](retiring_titles.PNG)
 - From the retiring titles, it can be seen that eligibile mentors would need to cover 90,398 employee positions (the sum of the table above).  <br>
 - For Eligible Employees who would fit the "mentorship" criteria, we discovered that a lot of the positions seem to be leaning in the "senior" positions as well. As seen on the below table:<br>
-![Eligible Employees Table](eligible_employees.png) <br>
+![Eligible Employees Table](eligible_employees.PNG) <br>
 - However, counting the rows of the provided table, we find that there are only 1,549 of these "mentor" eligible employees, which would indicate that there may be a lot more retirees than in younger generations. 
 
 # Summary
